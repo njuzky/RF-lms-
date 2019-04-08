@@ -1,0 +1,10 @@
+Using specfem2d to calculate the receiver functions of several certain crust-mantle structures.
+source = plane wave
+number of station = 40
+dis = distance between source and station
+slop = model1
+step = model2
+Slop = model3
+1Slop = model4
+left/right = direction of source
+
